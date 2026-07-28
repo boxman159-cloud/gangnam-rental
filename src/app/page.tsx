@@ -315,14 +315,14 @@ export default function HomePage() {
                     </div>
                   )}
                   <div className="absolute inset-0 bg-gradient-to-t from-dark-900/60 to-transparent" />
-                  <div className="absolute top-3 left-3">
-                    <span className="bg-dark-800/80 backdrop-blur-sm text-neon-purple text-xs font-semibold px-2 py-1 rounded-full border border-neon-purple/30">
+                  <div className="absolute top-2 left-2">
+                    <span className="bg-dark-800/80 backdrop-blur-sm text-neon-purple text-[10px] font-semibold px-2 py-0.5 rounded-full border border-neon-purple/30 leading-tight">
                       {getTag(v)}
                     </span>
                   </div>
-                  <div className="absolute top-3 right-3">
-                    <span className="bg-dark-800/80 backdrop-blur-sm text-gray-300 text-xs px-2 py-1 rounded-full">
-                      {c.capacity} {v.capacity.toLocaleString()}+
+                  <div className="absolute bottom-2 right-2">
+                    <span className="bg-dark-800/80 backdrop-blur-sm text-gray-300 text-[10px] px-2 py-0.5 rounded-full leading-tight">
+                      수용 {v.capacity.toLocaleString()}+
                     </span>
                   </div>
                 </div>
