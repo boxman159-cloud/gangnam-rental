@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 import { rentalVenues } from '@/data/venues'
 
-const BASE = 'https://helpful-fudge-b837eb.netlify.app'
+const BASE = 'https://lounge-rental.com'
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date()

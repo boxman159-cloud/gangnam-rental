@@ -4,7 +4,7 @@ import Navbar from '@/components/layout/Navbar'
 import Footer from '@/components/layout/Footer'
 import { LanguageProvider } from '@/context/LanguageContext'
 
-const BASE = 'https://helpful-fudge-b837eb.netlify.app'
+const BASE = 'https://lounge-rental.com'
 
 export const metadata: Metadata = {
   metadataBase: new URL(BASE),

@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next'
 
-const BASE = 'https://helpful-fudge-b837eb.netlify.app'
+const BASE = 'https://lounge-rental.com'
 
 export default function robots(): MetadataRoute.Robots {
   return {

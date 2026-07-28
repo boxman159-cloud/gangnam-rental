@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 
-const BASE = 'https://helpful-fudge-b837eb.netlify.app'
+const BASE = 'https://lounge-rental.com'
 const PHONE = '010-9778-8571'
 
 export const metadata: Metadata = {
