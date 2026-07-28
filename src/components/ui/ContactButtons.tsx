@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { useLanguage } from '@/context/LanguageContext'
 
-const PHONE = '010-8215-8571'
+const PHONE = '010-9778-8571'
 const KAKAO_ID = 'alrep0410'
 const WECHAT_ID = 'club_jack_livin'
 const LINE_ID = 'clubjacklivn'
