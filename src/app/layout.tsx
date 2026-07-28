@@ -50,7 +50,7 @@ export const metadata: Metadata = {
   },
   verification: {
     google: '',
-    other: { 'naver-site-verification': '' },
+    other: { 'naver-site-verification': '162a41db035df5132497bd0f69dd2c30a576d907' },
   },
 }
 
