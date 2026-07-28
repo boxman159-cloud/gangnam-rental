@@ -42,7 +42,7 @@ export default function Navbar() {
               <span className="text-white font-black text-sm">GN</span>
             </div>
             <span className="text-white font-black text-xl tracking-tight">
-              강남<span className="text-gradient">대관센터</span>
+              강남<span className="text-gradient">라운지대관</span>
             </span>
           </Link>
 

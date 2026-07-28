@@ -11,7 +11,7 @@ export default function Footer() {
                 <span className="text-white font-black text-sm">GN</span>
               </div>
               <span className="text-white font-black text-xl">
-                강남<span className="text-gradient">대관센터</span>
+                강남<span className="text-gradient">라운지대관</span>
               </span>
             </div>
             <p className="text-gray-400 text-sm leading-relaxed max-w-xs">
@@ -38,7 +38,7 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4 text-sm uppercase tracking-widest">연락처</h4>
             <ul className="space-y-2 text-gray-400 text-sm">
-              <li>📞 전화: 010-8215-8571</li>
+              <li>📞 전화: 010-9778-8571</li>
               <li>💬 카카오톡: alrep0410</li>
               <li>💚 WeChat: club_jack_livin</li>
               <li>💚 LINE: clubjacklivn</li>

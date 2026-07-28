@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   metadataBase: new URL(BASE),
   title: {
     default: '강남 클럽·라운지 대관 | 청담라운지·압구정 파티룸· 행사 대관 전문',
-    template: '%s | 강남 대관센터',
+    template: '%s | 강남라운지대관',
   },
   description: '강남(청담·압구정) 클럽·라운지·파티룸 대관 전문. 벨레어청담, 아르쥬청담, 피플더테라스, 카스텔로라운지 기업파티·생일파티·브랜드론칭·팝업·촬영·피로연 대관 문의 010-9778-8571',
   keywords: [
