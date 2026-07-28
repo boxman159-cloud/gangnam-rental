@@ -252,7 +252,7 @@ export default function HomePage() {
           <p className="text-gray-300 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed mb-4">{c.heroDesc}</p>
           <p className="text-gray-500 text-sm max-w-2xl mx-auto mb-10">{c.heroSub}</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:010-8215-8571" className="btn-primary px-8 py-4 text-base rounded-xl">{c.ctaInquiry}</a>
+            <a href="tel:010-9778-8571" className="btn-primary px-8 py-4 text-base rounded-xl">{c.ctaInquiry}</a>
             <a href="#venues" className="btn-outline px-8 py-4 text-base rounded-xl">{c.ctaBrowse}</a>
           </div>
         </div>
