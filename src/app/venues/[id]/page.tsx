@@ -13,7 +13,7 @@ export async function generateMetadata({ params }: { params: { id: string } }): 
   if (!venue) return {}
   return {
     title: `${venue.name} 대관`,
-    description: `${venue.name} 대관 안내. ${venue.features.slice(0, 3).join(', ')}. 기업파티·브랜드론칭·팝업·촬영·피로연 문의 010-8215-8571`,
+    description: `${venue.name} 대관 안내. ${venue.features.slice(0, 3).join(', ')}. 기업파티·브랜드론칭·팝업·촬영·피로연 문의 010-9778-8571`,
     alternates: { canonical: `${BASE}/venues/${venue.id}` },
     openGraph: {
       title: `${venue.name} 대관 | 강남 대관센터`,

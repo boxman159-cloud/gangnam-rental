@@ -53,7 +53,7 @@ const jsonLd = {
   name: '강남 대관센터',
   description: '강남(청담·압구정) 클럽·라운지 대관 전문 서비스',
   url: BASE,
-  telephone: '010-8215-8571',
+  telephone: '010-9778-8571',
   address: {
     '@type': 'PostalAddress',
     addressLocality: '강남구',
