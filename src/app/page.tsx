@@ -12,7 +12,7 @@ const i18n = {
     badge: 'GANGNAM VENUE RENTAL',
     heroTitle: '강남 클럽·라운지',
     heroGradient: '대관, 한 곳에서.',
-    heroDesc: '청담·압구정 프리미엄 라운지 대관 전문. 어떤 행사든 최적의 베뉴를 연결해 드립니다.',
+    heroDesc: '강남(신사·청담·압구정) 전역의 클럽·라운지 대관 전문 서비스. 기업 파티·브랜드 론칭·팝업·촬영·피로연까지 최적의 베뉴를 연결해 드립니다.',
     heroSub: '기업 파티 · 브랜드 론칭 · 팝업 스토어 · 촬영 대관 · 결혼식 피로연 · 프라이빗 파티',
     ctaInquiry: '📩 대관 문의하기',
     ctaBrowse: '🏢 업장 둘러보기',
@@ -249,7 +249,7 @@ export default function HomePage() {
             {c.heroTitle}<br />
             <span className="text-gradient">{c.heroGradient}</span>
           </h1>
-          <p className="text-gray-300 text-lg md:text-xl max-w-3xl mx-auto leading-relaxed mb-4">{c.heroDesc}</p>
+          <p className="text-white/60 text-base md:text-lg max-w-2xl mx-auto leading-relaxed tracking-wide mb-4 font-light">{c.heroDesc}</p>
           <p className="text-gray-500 text-sm max-w-2xl mx-auto mb-10">{c.heroSub}</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a href="tel:010-9778-8571" className="btn-primary px-8 py-4 text-base rounded-xl">{c.ctaInquiry}</a>
